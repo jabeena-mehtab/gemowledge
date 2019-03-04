@@ -1,0 +1,12 @@
+
+
+@font-face {
+font-family: 'vtks animal 2';
+font-style: normal;
+font-weight: normal;
+src: local('vtks animal 2'), url('vtks_animal_2.woff') format('woff');
+}
+h1
+{
+	font-family:'vtks animal 2';
+}

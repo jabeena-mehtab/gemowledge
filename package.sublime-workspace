@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"Car",
+				"Cardlist"
+			],
+			[
+				"Cad",
+				"Cardlist"
+			],
+			[
+				"Ca",
+				"cardlist"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"boac",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"a",
+				"animation\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"anima",
+				"animation\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"p",
+				"padEnd"
+			],
+			[
+				"st",
+				"startLine"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"in",
+				"includes"
+			],
+			[
+				"sy",
+				"Symbol"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"m",
+				"moos"
+			],
+			[
+				"uer",
+				"username"
+			],
+			[
+				"border-",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"arra",
+				"array3"
+			],
+			[
+				"ar",
+				"array2"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"n",
+				"newarray"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"pass",
+				"passprompt"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"check",
+				"checkDriverAge2"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ff",
+				"FF3333"
+			],
+			[
+				"pro",
+				"profession"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"col",
+				"color1"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"are",
+				"arenaSweep"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"draw",
+				"drawmatrix"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"dr",
+				"dropInterval"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"fi",
+				"fillRect"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"d",
+				"drawTime"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"drw",
+				"drawNumbers"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"j",
+				"js"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"rot",
+				"rotateZ()\ttransform"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"ro",
+				"rotateZ()\ttransform"
+			],
+			[
+				"animation-",
+				"animation-delay\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"an",
+				"animation-name\tproperty"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"o",
+				"onload\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"A File Icon: Clean Patches"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hp/Desktop/just/moiz help/index.html",
+		"/C/Users/Hp/Desktop/just/moiz help/index.css",
+		"/C/Users/Hp/Desktop/hopwell/src/Card.js",
+		"/C/Users/Hp/Desktop/hopwell/public/index.html",
+		"/C/Users/Hp/Desktop/hopwell/src/index.js",
+		"/C/Users/Hp/Desktop/hopwell/src/MiniCard.js",
+		"/C/Users/Hp/Desktop/hopwell/src/diomonds.js",
+		"/C/Users/Hp/Desktop/hopwell/src/Cardlist.js",
+		"/C/Users/Hp/Desktop/hopwell/src/Cardlist",
+		"/C/Users/Hp/Desktop/hopwell/src/serviceWorker.js",
+		"/C/Users/Hp/Desktop/hopwell/src/index.css",
+		"/C/Users/Hp/Desktop/hopwell/src/Hello.css",
+		"/C/Users/Hp/Desktop/hopwell/src/Hello.js",
+		"/C/Users/Hp/Desktop/hopwell/src/App.js",
+		"/C/Users/Hp/Desktop/hopwell/public/favicon.ico",
+		"/C/Users/Hp/Desktop/hopwell/node_modules/color-convert/conversions.js",
+		"/C/Users/Hp/Desktop/hopwell/src/App.css",
+		"/C/Users/Hp/Desktop/web/luqman.html",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/index.html",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/script.js",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/package.json",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/bundle.js",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/package-lock.json",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/node_modules/lodash/_arrayFilter.js",
+		"/C/Users/Hp/Desktop/web/robo.html",
+		"/C/Users/Hp/Desktop/web/style.css",
+		"/C/Users/Hp/Desktop/web/Background Generator.html",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/node_modules/live-server/test/data/style.css",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/node_modules/live-server/test/data/index.html",
+		"/C/Users/Hp/Desktop/web/git_test/background-generator/style.css",
+		"/C/Users/Hp/Desktop/web/git_test/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/Hp/Desktop/just/starter_Robo/robot.html",
+		"/C/Users/Hp/Desktop/just/starter_Robo/robot friend.css",
+		"/C/Users/Hp/Desktop/web/git_test/JS_Fun_Practice/README.md",
+		"/C/Users/Hp/Desktop/web/git_test/JS_Fun_Practice/index.html",
+		"/C/Users/Hp/Desktop/web/js file.js",
+		"/C/Users/Hp/Desktop/web/css file.css",
+		"/C/Users/Hp/Desktop/just for now/BONUS CSS.html",
+		"/C/Users/Hp/Desktop/just for now/bonus.css",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/7. Advanced CSS/11.1 index.html.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/7. Advanced CSS/11.2 style.css.css",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/7. Advanced CSS/robo.html",
+		"/C/Users/Hp/Desktop/moiz work/bootstrap.html",
+		"/C/Users/Hp/Desktop/moiz work/Untitled-1.html",
+		"/C/Users/Hp/Desktop/moiz work/gallery.css",
+		"/C/Users/Hp/Desktop/moiz work/ui responsive gallery.html",
+		"/C/Users/Hp/Desktop/moiz work/css.css",
+		"/C/Users/Hp/Desktop/moiz work/css.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/7. Advanced CSS/2.1 picture links.txt.txt",
+		"/C/cygwin64/usr/local/bin/sublime.txt",
+		"/C/Users/Hp/Desktop/moiz work/css web.html",
+		"/C/Users/Hp/Desktop/web/home projects/game.css",
+		"/C/Users/Hp/Desktop/web/git_test/style.css",
+		"/C/Users/Hp/Desktop/web/git_test/script.js",
+		"/C/Users/Hp/Desktop/web/git_test/index.html",
+		"/C/Users/Hp/Desktop/moiz work/helloooooo",
+		"/C/cygwin64/home/Hp/.bash_profile",
+		"/C/Users/Hp/Desktop/web/home projects/game.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/14. Developer Environment/2. Resources Customizing Sublime Text 3.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/14. Developer Environment/4. Resources Customizing Terminal.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/14. Developer Environment/3. Terminal.mp4",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/14. Developer Environment/1. Sublime Text 3.mp4",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/16.2 exerciseES8-SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/16.1 exerciseES8.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/14.2 exerciseES7-SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/14.1 exerciseES7.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/6.2 exercise3-SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12.2 Ecmascript version 5,6 and7/6.1 exercise3.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/12.1 exercise6.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/12.2 exercise6 SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/10.2 exercise5.js.js",
+		"/C/Users/Hp/Desktop/web/text change.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/10.1 exercise5-SOLUTIONS (1).js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/8.1 exercise4.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/20.1 Brief History Of Modules In Javascript.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/7. Advanced Functions.mp4",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/14.2 exerciseES7-SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/14.1 exerciseES7.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/8.2 exercise4-SOLUTIONS.js.js",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DRa0.144/sshop/README.md",
+		"/C/Users/Hp/Desktop/web/home projects/bulb.css",
+		"/C/Users/Hp/Desktop/moiz work/youtube.jpg",
+		"/C/Users/Hp/Desktop/moiz work/uu.png",
+		"/C/Users/Hp/Desktop/moiz work/Copy.css",
+		"/C/Users/Hp/Desktop/moiz work/Copy.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/1. Introduction/3. Join Our Slack Community!.html",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/6. CSS/4.1 CSS Cheat Sheet.txt.txt",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/6.1 exercise3.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/5. Advanced HTML 5/8. HTML Lesson Files.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/5. Advanced HTML 5/8.1 index.html.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/5. Advanced HTML 5/8.3 register.html.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/5. Advanced HTML 5/8.2 newpage.html.html",
+		"/C/Users/Hp/Desktop/moiz work/index 2.html",
+		"/C/Users/Hp/Desktop/moiz work/text.html",
+		"/C/Users/Hp/Desktop/web/home projects/form.html",
+		"/C/Users/Hp/Desktop/moiz work/index.html",
+		"/C/Users/Hp/Desktop/web/home projects/game.js",
+		"/C/Users/Hp/AppData/Roaming/Sublime Text 3/Packages/User/h.css",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/16. Exercise ES8.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/16.1 exerciseES8.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/6.2 exercise3-SOLUTIONS.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/4.2 exercise2.js.js",
+		"/C/Users/Hp/Desktop/web/auto gallery with text.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/12. Exercise Advanced Objects.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/12. Advanced Javascript/2.1 exercise1.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/5.1 index.html.html",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/5.2 script.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/5.3 style.css",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/5.2 script.js.js",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/5.3 style.css.css",
+		"/C/Users/Hp/Desktop/The Complete Web Developer in 2018 Zero to Mastery/11. DOM Manipulation/3.1 DOM selectors.txt.txt",
+		"/C/Users/Hp/Desktop/web/home projects/fb/basic facebook.html",
+		"/C/Users/Hp/Desktop/web/home projects/fb/fb.css",
+		"/C/Users/Hp/Desktop/web/home projects/fb/facebook.js",
+		"/C/Users/Hp/Desktop/web/basic facebook.html",
+		"/C/Users/Hp/Desktop/web/facebook.js",
+		"/C/Users/Hp/Desktop/web/home projects/images.jpg",
+		"/C/Users/Hp/Desktop/web/home projects/java.js",
+		"/C/Users/Hp/Desktop/web/home projects/kinder garden.html",
+		"/C/Users/Hp/Desktop/web/home projects/off.png",
+		"/C/Users/Hp/Desktop/web/home projects/on.png",
+		"/C/Users/Hp/Desktop/web/home projects/style2.css",
+		"/C/Users/Hp/Desktop/web/home projects/switch.html",
+		"/C/Users/Hp/Desktop/web/home projects/test your self.html",
+		"/C/Users/Hp/Desktop/web/home projects/test.html",
+		"/C/Users/Hp/Desktop/web/home projects/bulb 1.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 625.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Hp\\Desktop\\The Complete Web Developer in 2018 Zero to Mastery\\12. Advanced Javascript\\6.1 exercise3.js.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
